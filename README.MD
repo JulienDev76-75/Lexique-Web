@@ -2,7 +2,7 @@
 
 *Voici une liste de mots dont les notions sont indispensables à savoir pour être un bon développeur Web ! C'est une boîte à outils formidable, n'hésite pas à l'utiliser.*
 
-## Lexique [color=#26B260]
+## <span style="color: #26B260">Lexique</span>
 
 **Agile** : Méthode de gestion et de développement particulièrement adaptée aux projets ou programmes informatiques, et qui fonctionne sur la base de l’itératif (l'équipe affine par retouches successives, améliorant la qualité et peaufinant l’idée de départ) 
             et l’incrémental (idée initiale complètement formée, que l’on construit ensuite morceau par morceau, jusqu’à la livraison du produit fini).
