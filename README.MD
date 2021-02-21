@@ -2,7 +2,7 @@
 
 *Voici une liste de mots dont les notions sont indispensables à savoir pour être un bon développeur Web ! C'est une boîte à outils formidable, n'hésite pas à l'utiliser.*
 
-## Lexique
+## Lexique [color=#26B260]
 
 **Agile** : Méthode de gestion et de développement particulièrement adaptée aux projets ou programmes informatiques, et qui fonctionne sur la base de l’itératif (l'équipe affine par retouches successives, améliorant la qualité et peaufinant l’idée de départ) 
             et l’incrémental (idée initiale complètement formée, que l’on construit ensuite morceau par morceau, jusqu’à la livraison du produit fini).
@@ -43,36 +43,47 @@
 
 **GitHub** : GitHub est un site web et un service de cloud qui aide les développeurs à stocker et à gérer leur code, ainsi qu’à suivre et contrôler les modifications qui lui sont apportées.
 
+**HTML (Hypertext Markup Language)** : HTML est un langage de description de pages Web reconnu par le navigateur. Il se base sur l'utilisation de balises pour présenter le document. Les clients (navigateurs) peuvent le déchiffrer correctement.
+                                       On peut le définir comme un "langage de création de contenu". On peut définir des paragraphes, titres et tables de données ou encore intégrer des images ou des vidéos dans une page.
+
+**HTTP (Hypertext Transfer Protocol)** : HTTP est un protocole de communication qui se charge d'acheminer les données hypertextes entre le client et le serveur. Il est sans doute le protocole le plus populaire. 
+
 **Intégration** : Consiste à réunir au sein d’un même système d’information, des parties développées de façon séparées. L’intégration peut également consister à la tâche effectuée par le développeur Front-End (aussi appelé intégrateur).
 
-**Input** :
+**Input/Output** : Littéralement entrée et sortie en terme de ligne de code, à savoir qu'en informatique, un Input peut devenir output et vice versa et ce grâce au chaînage.  
 
 **Javascript** : JavaScript est un langage de programmation qui permet d’implémenter des mécanismes complexes sur une page web. En complément de HTML-CSS, il permet de créer du contenu mis à jour de façon dynamique, de contrôler le contenu multimédia 
                  ou encore d’animer des images.
 
-**Ligne de commande** : Permet de donner des instructions à la machine et de communiquer avec elle sans passer par l'interface graphique. L'avantage est la rapidité d'éxécution et la correction de bug non pris en compte par l'interface graphique. 
-
-**HTML (Hypertext Markup Language)** : HTML est un langage de description de pages Web reconnu par le navigateur. Il se base sur l'utilisation de balises pour présenter le document. Les clients (navigateurs) peuvent le déchiffrer correctement. 
-                                       On peut le définir comme un "langage de création de contenu". On peut définir des paragraphes, titres et tables de données ou encore intégrer des images ou des vidéos dans une page.  
-
-**HTTP (Hypertext Transfer Protocol)** : HTTP est un protocole de communication qui se charge d'acheminer les données hypertextes entre le client et le serveur. Il est sans doute le protocole le plus populaire.
+**Ligne de commande** : Permet de donner des instructions à la machine et de communiquer avec elle sans passer par l'interface graphique. L'avantage est la rapidité d'éxécution et la correction de bug non pris en compte par l'interface graphique.   
 
 **Internet** : Internet, c’est le réseau qui permet de communiquer entre ordinateurs. Sur ce réseau, on trouve plusieurs services : web, e-mail etc.  
 
-**Merge** : 
+**Merge** : Fusion de la branche master avec d'autres branches via Git, il se passe du côté "local" de l'ordinateur.
+
+**Le navigateur (browser)** : Il s'agit du logiciel utilisé pour visualiser du contenu hypertexte. Il s'agit du client HTTP qui affiche les pages Web.
+                              Un navigateur doit pouvoir exécuter les langages coté client à savoir HTML/XML, CSS et Javascript.
 
 **MySQL** : MySQL est un SGBD (Système de Gestion de Base de Données) relationnel. C'est l'un des plus populaire au monde. Il est célèbre d'être le SGDB de prédilection des développeurs Web qui codent en PHP.
 
-**Ouput** :
-
 **PHP** : Le PHP (Hypertext Preprocessor) est un langage de programmation s’exécutant côté serveur et permettant la création dynamique de page web.
 
-**Protocole SSH** : 
+**Protocole SSH** : Le SSH est à la fois un programme informatique et un protocole de communication sécurisé. Le protocole de connexion impose un échange de clés de chiffrement (publique et privé) en début de connexion. Il s'agit de la manière la plus sécurisée
+                    afin de travailler sur le code effectué sans intrusion par un tiers. 
 
-**Pull request** : 
+**Pull request** : Même principe que la fonction "merge", sauf que cette opération de fusion de branche se situe du côté "distant" sur GitHub.
 
-**Serveur** :
+**Serveur** : Un serveur Web est un serveur informatique qui héberge le contenu d'un site Web et publie celui ci en ligne sur Internet ou Intranet. L'ensemble des serveurs Web accessibles depuis Internet constituent les nœuds de la toile (Web). 
 
-**Terminal** :
+**Site Web statique** : Il s'agit d'un site Web qui se base sur du code source simple (écrit généralement avec HTML et CSS). Le contenu du site reste inchangé jusqu'à ce que le code source soit modifié manuellement.
 
-**Versionning** : le contrôle de version permet aux développeurs de travailler en toute sécurité à travers les branchements et les fusions.
+**Site Web dynamique** : Le site dynamique repose sur des scripts CGI (PHP...) et s'alimente auprès d'une base de données pour mettre à jour son contenu d'une façon autonome. 
+                       Il se peut même qu'une même page d'un site dynamique soit consultée au même moment par deux internautes différents, mais le contenu que visualise le premier est différent de ce qui s'affiche devant le deuxième.
+
+**SQL** : SQL (Structured Query Language) est un langage informatique qui permet d'interroger les bases de données. C'est un langage dit "Back-End".
+
+**Terminal** : Connu aussi sous le nom de Shell, il permet de communiquer avec l'oridinateur au travers de lignes de codes. Contrairement à la modification via l'interface graphique, les modifications sont plus rapides, de suivre les miodifications dans le système
+               et de pouvoir régler d'éventuels bugs. 
+
+**Versionning** : Le contrôle de version permet aux développeurs de travailler en toute sécurité à travers les branchements et les fusions. Il s'agit de tester les différentes versions d'un code et ses étapes afin de procéder à d'éventuelles modoifications.
+                  Cela permet de travailler directement sur le code source du projet, en gardant toutes les versions précédentes.
