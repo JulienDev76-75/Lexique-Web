@@ -73,5 +73,6 @@
 
 **Serveur** :
 
-**Terminal** : 
+**Terminal** :
+
 **Versionning** : le contrôle de version permet aux développeurs de travailler en toute sécurité à travers les branchements et les fusions.
